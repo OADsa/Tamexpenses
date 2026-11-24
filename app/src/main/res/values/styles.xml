@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Tamexpenses" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/tam_cream</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
